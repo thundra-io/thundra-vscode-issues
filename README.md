@@ -25,7 +25,7 @@ Start online debug sessions while the AWS Lambda functions run on AWS Cloud. Thu
 * Now invoke your AWS Lambda function to hit on the debug point.
 * Debug session ends when your AWS Lambda function times out. You can update the timeout of your function for longer debug sessions.
 
-### To manage your Thundra Debugger profiles:
+#### To manage your Thundra Debugger profiles:
 * Open Thundra configuration file by executing the command `Thundra: Edit Configuration`.
 * Add new profiles to the file as shown below.
 
@@ -52,5 +52,5 @@ You can access all of the above commands from the command palette (Cmd+Shift+P o
 Please see the [Thundra Documentation for VSCode Plugin](https://docs.thundra.io/) for more details.
 
 ## Issues
-Issues can be reported in the [Thundra Debugger Issue Repository](https://github.com/thundra-io/thundra-vscode-issues).
+Issues can be reported through the [Thundra Debugger Issue Repository](https://github.com/thundra-io/thundra-vscode-issues).
 
